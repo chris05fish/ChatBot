@@ -29,3 +29,7 @@
     padding: 10px;
     border-radius: 2px;
 }
+
+.intro-message {
+    margin-top: 20px; /* Adjust the margin value as needed */
+}
